@@ -1,4 +1,4 @@
-# romanian-bank-holidays
+# firebase function: romanian-bank-holidays
 ## use this api to get a list of romanian bank holidays
 ### API URL: https://us-central1-romanian-bank-holidays.cloudfunctions.net/romanian_bank_holidays/
 
