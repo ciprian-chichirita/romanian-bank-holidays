@@ -1,0 +1,27 @@
+{
+  "name": "romanian-bank-holidays",
+  "version": "1.0.0",
+  "description": "zile libere de la stat, romanian bank holidays",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciprian-chichirita/romanian-bank-holidays.git"
+  },
+  "keywords": [
+    "bank",
+    "holidays",
+    "zile",
+    "libere",
+    "de",
+    "la",
+    "stat"
+  ],
+  "author": "ciprian chichirita",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ciprian-chichirita/romanian-bank-holidays/issues"
+  },
+  "homepage": "https://github.com/ciprian-chichirita/romanian-bank-holidays#readme"
+}
