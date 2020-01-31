@@ -1,5 +1,7 @@
 # romanian-bank-holidays
 ## use this api to get a list of romanian bank holidays
+### API URL: https://us-central1-romanian-bank-holidays.cloudfunctions.net/romanian_bank_holidays/
+
 - romanian bank holidays, RO: zile libere de la stat
 - query param: `?year=DEFAULT_CURRENT_YEAR`
 
